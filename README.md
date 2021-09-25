@@ -2,6 +2,8 @@
 
 ## Purpose
 
+### another heading
+
 The purpose of this project is to demonstrate my proficiency in VBA via analyzing stock market data.
 
 ## Results
